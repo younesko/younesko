@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @younesko
-- physics graduate starting the coding journey
+- physics graduate starting interested in programming and computation in general
 
 
 <!---
